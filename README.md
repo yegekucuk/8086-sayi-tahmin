@@ -5,7 +5,8 @@
 # input1 prosedürü: Birinci oyuncudan tahmin edilen sayıyı almak için kullanılır. Tahmin edilen sayı alındıktan sonra, bu sayı 4F1h bellek adresine kaydedilir.
 
 #  input2 prosedürü: İkinci oyuncudan tahmin edilen sayıyı almak için kullanılır. Tahmin edilen sayı alındıktan sonra, bu sayı 4F2h bellek adresine kaydedilir.
-newline prosedürü: Yeni bir satır oluşturmak için kullanılır.
+
+# newline prosedürü: Yeni bir satır oluşturmak için kullanılır.
 
 # printturn prosedürü: Oyuncuların kaçıncı turda olduklarını yazdırmak için kullanılır. Bu prosedür, "Turn x:" (x oyuncuların tur sayısı) şeklinde bir çıktı üretir.
 
